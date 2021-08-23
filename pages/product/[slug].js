@@ -1,6 +1,9 @@
+import { Link } from "@material-ui/core";
 import { useRouter } from "next/router";
 import React from "react";
+import Layout from "../../components/Layout";
 import data from "../../utils/data";
+import NextLink from "next/link";
 
 const ProductScreen = () => {
   const router = useRouter();
@@ -13,9 +16,13 @@ const ProductScreen = () => {
   }
 
   return (
-    <div>
-      <h1>{product.name}</h1>
-    </div>
+    <Layout title={product.name}>
+      <div>
+        <NextLink href="/" passHref>
+          <Link>Back to Products</Link>
+        </NextLink>
+      </div>
+    </Layout>
   );
 };
 
