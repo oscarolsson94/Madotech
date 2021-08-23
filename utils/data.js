@@ -6,6 +6,8 @@ const data = {
       image: "/images/Drums/101001.jpg",
       price: "199",
       slug: "drum-101001",
+      description:
+        "The OilSafe 1.5 Liter Drum is ideal for small top-up work, such as small reservoirs and oil filler bottles, particularly when mated with the Mini Spout Lid. Fully interchangeable with any OilSafe lid.",
     },
     {
       name: "2.0 liter drum",

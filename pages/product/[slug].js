@@ -50,6 +50,9 @@ const ProductScreen = () => {
                 height={30}
               ></Image>
             </ListItem>
+            <ListItem>{`Price: ${product.price} kr`}</ListItem>
+            <ListItem>{`Oilsafe ${product.name}`}</ListItem>
+            <ListItem>{product.description}</ListItem>
           </List>
         </Grid>
       </Grid>
