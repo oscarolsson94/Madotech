@@ -447,7 +447,8 @@ const data = {
       image: "/images/StumpySpoutLid/100500.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100500",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -455,7 +456,8 @@ const data = {
       image: "/images/StumpySpoutLid/100501.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100501",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -463,7 +465,8 @@ const data = {
       image: "/images/StumpySpoutLid/100502.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100502",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -471,7 +474,8 @@ const data = {
       image: "/images/StumpySpoutLid/100503.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100503",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -479,7 +483,8 @@ const data = {
       image: "/images/StumpySpoutLid/100504.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100504",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -487,7 +492,8 @@ const data = {
       image: "/images/StumpySpoutLid/100505.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100505",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -495,7 +501,8 @@ const data = {
       image: "/images/StumpySpoutLid/100506.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100506",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -503,7 +510,8 @@ const data = {
       image: "/images/StumpySpoutLid/100507.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100507",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -511,7 +519,8 @@ const data = {
       image: "/images/StumpySpoutLid/100508.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100508",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Stumpy Spout Lid",
@@ -519,7 +528,8 @@ const data = {
       image: "/images/StumpySpoutLid/100509.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100509",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
     },
     {
       name: "Utility Lid",
@@ -527,7 +537,8 @@ const data = {
       image: "/images/UtilityLid/100200.jpg",
       price: "199",
       slug: "utility-lid-100200",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -535,7 +546,8 @@ const data = {
       image: "/images/UtilityLid/100201.jpg",
       price: "199",
       slug: "utility-lid-100201",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -543,7 +555,8 @@ const data = {
       image: "/images/UtilityLid/100202.jpg",
       price: "199",
       slug: "utility-lid-100202",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -551,7 +564,8 @@ const data = {
       image: "/images/UtilityLid/100203.jpg",
       price: "199",
       slug: "utility-lid-100203",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -559,7 +573,8 @@ const data = {
       image: "/images/UtilityLid/100204.jpg",
       price: "199",
       slug: "utility-lid-100204",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -567,7 +582,8 @@ const data = {
       image: "/images/UtilityLid/100205.jpg",
       price: "199",
       slug: "utility-lid-100205",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -575,7 +591,8 @@ const data = {
       image: "/images/UtilityLid/100206.jpg",
       price: "199",
       slug: "utility-lid-100206",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -583,7 +600,8 @@ const data = {
       image: "/images/UtilityLid/100207.jpg",
       price: "199",
       slug: "utility-lid-100207",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -591,7 +609,8 @@ const data = {
       image: "/images/UtilityLid/100208.jpg",
       price: "199",
       slug: "utility-lid-100208",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
     {
       name: "Utility Lid",
@@ -599,7 +618,8 @@ const data = {
       image: "/images/UtilityLid/100209.jpg",
       price: "199",
       slug: "utility-lid-100209",
-      description: "",
+      description:
+        "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
     },
   ],
 };

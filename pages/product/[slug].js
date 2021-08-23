@@ -25,6 +25,7 @@ const ProductScreen = () => {
         <NextLink href="/" passHref>
           <Link>Back to Products</Link>
         </NextLink>
+        {` | ${slug}`}
       </div>
       <Grid container spacing={1}>
         <Grid item md={6} xs={12}>
