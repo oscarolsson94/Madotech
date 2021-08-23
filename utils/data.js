@@ -15,6 +15,7 @@ const data = {
       image: "/images/Drums/101002.jpg",
       price: "199",
       slug: "drum-101002",
+      description: "",
     },
     {
       name: "3.0 liter drum",
@@ -22,6 +23,7 @@ const data = {
       image: "/images/Drums/101003.jpg",
       price: "199",
       slug: "drum-101003",
+      description: "",
     },
     {
       name: "5.0 liter drum",
@@ -29,6 +31,7 @@ const data = {
       image: "/images/Drums/101005.jpg",
       price: "199",
       slug: "drum-101005",
+      description: "",
     },
     {
       name: "10.0 liter drum",
@@ -36,6 +39,7 @@ const data = {
       image: "/images/Drums/101010.jpg",
       price: "199",
       slug: "drum-101010",
+      description: "",
     },
     {
       name: "Stretch extension hose",
@@ -43,6 +47,7 @@ const data = {
       image: "/images/Hoses/102020mod2.jpg",
       price: "199",
       slug: "hose-102020mod2",
+      description: "",
     },
     {
       name: "Stumpy extension hose",
@@ -50,6 +55,7 @@ const data = {
       image: "/images/Hoses/102021.jpg",
       price: "199",
       slug: "hose-102021",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -57,6 +63,7 @@ const data = {
       image: "/images/MiniSpoutLid/100400.jpg",
       price: "199",
       slug: "mini-spout-lid-100400",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -64,6 +71,7 @@ const data = {
       image: "/images/MiniSpoutLid/100401.jpg",
       price: "199",
       slug: "mini-spout-lid-100401",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -71,6 +79,7 @@ const data = {
       image: "/images/MiniSpoutLid/100402.jpg",
       price: "199",
       slug: "mini-spout-lid-100402",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -78,6 +87,7 @@ const data = {
       image: "/images/MiniSpoutLid/100403.jpg",
       price: "199",
       slug: "mini-spout-lid-100403",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -85,6 +95,7 @@ const data = {
       image: "/images/MiniSpoutLid/100404.jpg",
       price: "199",
       slug: "mini-spout-lid-100404",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -92,6 +103,7 @@ const data = {
       image: "/images/MiniSpoutLid/100405.jpg",
       price: "199",
       slug: "mini-spout-lid-100405",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -99,6 +111,7 @@ const data = {
       image: "/images/MiniSpoutLid/100406.jpg",
       price: "199",
       slug: "mini-spout-lid-100406",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -106,6 +119,7 @@ const data = {
       image: "/images/MiniSpoutLid/100407.jpg",
       price: "199",
       slug: "mini-spout-lid-100407",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -113,6 +127,7 @@ const data = {
       image: "/images/MiniSpoutLid/100408.jpg",
       price: "199",
       slug: "mini-spout-lid-100408",
+      description: "",
     },
     {
       name: "Mini Spout Lid",
@@ -120,6 +135,7 @@ const data = {
       image: "/images/MiniSpoutLid/100409.jpg",
       price: "199",
       slug: "mini-spout-lid-100409",
+      description: "",
     },
     {
       name: "Standard Pump",
@@ -127,6 +143,7 @@ const data = {
       image: "/images/Pumps/102000.jpg",
       price: "199",
       slug: "standard-pump-102000",
+      description: "",
     },
     {
       name: "Pump reducer nozzle",
@@ -134,6 +151,7 @@ const data = {
       image: "/images/Pumps/102030.jpg",
       price: "199",
       slug: "pump-reducer-nozzle-102030",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -141,6 +159,7 @@ const data = {
       image: "/images/Pumps/102300.jpg",
       price: "199",
       slug: "premium-pump-102300",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -148,6 +167,7 @@ const data = {
       image: "/images/Pumps/102301.jpg",
       price: "199",
       slug: "premium-pump-102301",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -155,6 +175,7 @@ const data = {
       image: "/images/Pumps/102302.jpg",
       price: "199",
       slug: "premium-pump-102302",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -162,6 +183,7 @@ const data = {
       image: "/images/Pumps/102303.jpg",
       price: "199",
       slug: "premium-pump-102303",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -169,6 +191,7 @@ const data = {
       image: "/images/Pumps/102304.jpg",
       price: "199",
       slug: "premium-pump-102304",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -176,6 +199,7 @@ const data = {
       image: "/images/Pumps/102305.jpg",
       price: "199",
       slug: "premium-pump-102305",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -183,6 +207,7 @@ const data = {
       image: "/images/Pumps/102306.jpg",
       price: "199",
       slug: "premium-pump-102306",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -190,6 +215,7 @@ const data = {
       image: "/images/Pumps/102307.jpg",
       price: "199",
       slug: "premium-pump-102307",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -197,6 +223,7 @@ const data = {
       image: "/images/Pumps/102308.jpg",
       price: "199",
       slug: "premium-pump-102308",
+      description: "",
     },
     {
       name: "Premium Pump",
@@ -204,6 +231,7 @@ const data = {
       image: "/images/Pumps/102309.jpg",
       price: "199",
       slug: "premium-pump-102309",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -211,6 +239,7 @@ const data = {
       image: "/images/StorageLid/100100.jpg",
       price: "199",
       slug: "storage-lid-100100",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -218,6 +247,7 @@ const data = {
       image: "/images/StorageLid/100101.jpg",
       price: "199",
       slug: "storage-lid-100101",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -225,6 +255,7 @@ const data = {
       image: "/images/StorageLid/100102.jpg",
       price: "199",
       slug: "storage-lid-100102",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -232,6 +263,7 @@ const data = {
       image: "/images/StorageLid/100103.jpg",
       price: "199",
       slug: "storage-lid-100103",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -239,6 +271,7 @@ const data = {
       image: "/images/StorageLid/100104.jpg",
       price: "199",
       slug: "storage-lid-100104",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -246,6 +279,7 @@ const data = {
       image: "/images/StorageLid/100105.jpg",
       price: "199",
       slug: "storage-lid-100105",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -253,6 +287,7 @@ const data = {
       image: "/images/StorageLid/100106.jpg",
       price: "199",
       slug: "storage-lid-100106",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -260,6 +295,7 @@ const data = {
       image: "/images/StorageLid/100107.jpg",
       price: "199",
       slug: "storage-lid-100107",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -267,6 +303,7 @@ const data = {
       image: "/images/StorageLid/100108.jpg",
       price: "199",
       slug: "storage-lid-100108",
+      description: "",
     },
     {
       name: "Storage Lid",
@@ -274,6 +311,7 @@ const data = {
       image: "/images/StorageLid/100109.jpg",
       price: "199",
       slug: "storage-lid-100109",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -281,6 +319,7 @@ const data = {
       image: "/images/StretchLid/100300.jpg",
       price: "199",
       slug: "stretch-lid-100300",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -288,6 +327,7 @@ const data = {
       image: "/images/StretchLid/100301.jpg",
       price: "199",
       slug: "stretch-lid-100301",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -295,6 +335,7 @@ const data = {
       image: "/images/StretchLid/100302.jpg",
       price: "199",
       slug: "stretch-lid-100302",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -302,6 +343,7 @@ const data = {
       image: "/images/StretchLid/100303.jpg",
       price: "199",
       slug: "stretch-lid-100303",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -309,6 +351,7 @@ const data = {
       image: "/images/StretchLid/100304.jpg",
       price: "199",
       slug: "stretch-lid-100304",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -316,6 +359,7 @@ const data = {
       image: "/images/StretchLid/100305.jpg",
       price: "199",
       slug: "stretch-lid-100305",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -323,6 +367,7 @@ const data = {
       image: "/images/StretchLid/100306.jpg",
       price: "199",
       slug: "stretch-lid-100306",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -330,6 +375,7 @@ const data = {
       image: "/images/StretchLid/100307.jpg",
       price: "199",
       slug: "stretch-lid-100307",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -337,6 +383,7 @@ const data = {
       image: "/images/StretchLid/100308.jpg",
       price: "199",
       slug: "stretch-lid-100308",
+      description: "",
     },
     {
       name: "Stretch Lid",
@@ -344,6 +391,7 @@ const data = {
       image: "/images/StretchLid/100309.jpg",
       price: "199",
       slug: "stretch-lid-100309",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -351,6 +399,7 @@ const data = {
       image: "/images/StumpySpoutLid/100500.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100500",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -358,6 +407,7 @@ const data = {
       image: "/images/StumpySpoutLid/100501.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100501",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -365,6 +415,7 @@ const data = {
       image: "/images/StumpySpoutLid/100502.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100502",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -372,6 +423,7 @@ const data = {
       image: "/images/StumpySpoutLid/100503.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100503",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -379,6 +431,7 @@ const data = {
       image: "/images/StumpySpoutLid/100504.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100504",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -386,6 +439,7 @@ const data = {
       image: "/images/StumpySpoutLid/100505.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100505",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -393,6 +447,7 @@ const data = {
       image: "/images/StumpySpoutLid/100506.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100506",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -400,6 +455,7 @@ const data = {
       image: "/images/StumpySpoutLid/100507.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100507",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -407,6 +463,7 @@ const data = {
       image: "/images/StumpySpoutLid/100508.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100508",
+      description: "",
     },
     {
       name: "Stumpy Spout Lid",
@@ -414,6 +471,7 @@ const data = {
       image: "/images/StumpySpoutLid/100509.jpg",
       price: "199",
       slug: "stumpy-spout-lid-100509",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -421,6 +479,7 @@ const data = {
       image: "/images/UtilityLid/100200.jpg",
       price: "199",
       slug: "utility-lid-100200",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -428,6 +487,7 @@ const data = {
       image: "/images/UtilityLid/100201.jpg",
       price: "199",
       slug: "utility-lid-100201",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -435,6 +495,7 @@ const data = {
       image: "/images/UtilityLid/100202.jpg",
       price: "199",
       slug: "utility-lid-100202",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -442,6 +503,7 @@ const data = {
       image: "/images/UtilityLid/100203.jpg",
       price: "199",
       slug: "utility-lid-100203",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -449,6 +511,7 @@ const data = {
       image: "/images/UtilityLid/100204.jpg",
       price: "199",
       slug: "utility-lid-100204",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -456,6 +519,7 @@ const data = {
       image: "/images/UtilityLid/100205.jpg",
       price: "199",
       slug: "utility-lid-100205",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -463,6 +527,7 @@ const data = {
       image: "/images/UtilityLid/100206.jpg",
       price: "199",
       slug: "utility-lid-100206",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -470,6 +535,7 @@ const data = {
       image: "/images/UtilityLid/100207.jpg",
       price: "199",
       slug: "utility-lid-100207",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -477,6 +543,7 @@ const data = {
       image: "/images/UtilityLid/100208.jpg",
       price: "199",
       slug: "utility-lid-100208",
+      description: "",
     },
     {
       name: "Utility Lid",
@@ -484,6 +551,7 @@ const data = {
       image: "/images/UtilityLid/100209.jpg",
       price: "199",
       slug: "utility-lid-100209",
+      description: "",
     },
   ],
 };
