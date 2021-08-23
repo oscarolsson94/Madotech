@@ -5,6 +5,8 @@ import {
   CardMedia,
   Grid,
   Typography,
+  CardActions,
+  Button,
 } from "@material-ui/core";
 import Layout from "../components/Layout";
 import data from "../utils/data";
@@ -28,6 +30,12 @@ export default function Home() {
                     <Typography>{product.name}</Typography>
                   </CardContent>
                 </CardActionArea>
+                <CardActions>
+                  <Typography>{product.price} kr</Typography>
+                  <Button size="small" color="primary">
+                    Add to cart
+                  </Button>
+                </CardActions>
               </Card>
             </Grid>;
           })}
