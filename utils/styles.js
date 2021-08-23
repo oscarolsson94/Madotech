@@ -1,4 +1,5 @@
 import { makeStyles } from "@material-ui/core";
+import { green } from "@material-ui/core/colors";
 
 const useStyles = makeStyles({
   navbar: {
@@ -24,6 +25,10 @@ const useStyles = makeStyles({
   section: {
     marginTop: 10,
     marginBottom: 10,
+  },
+  span: {
+    color: "green",
+    fontWeight: "bold",
   },
 });
 export default useStyles;

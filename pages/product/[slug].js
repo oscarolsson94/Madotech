@@ -1,4 +1,4 @@
-import { Grid, Link } from "@material-ui/core";
+import { Grid, Link, List, ListItem } from "@material-ui/core";
 import { useRouter } from "next/router";
 import React from "react";
 import Layout from "../../components/Layout";
@@ -35,6 +35,22 @@ const ProductScreen = () => {
             height={640}
             layout="responsive"
           ></Image>
+        </Grid>
+        <Grid item md={3} xs={12}>
+          <List>
+            <ListItem>Category: {product.category}</ListItem>
+            <ListItem>
+              Availability: <span className={classes.span}>In Stock</span>
+            </ListItem>
+            <ListItem>
+              <Image
+                src="/images/oilsafe_logo.jpg"
+                alt="oilsafe logo"
+                width={110}
+                height={30}
+              ></Image>
+            </ListItem>
+          </List>
         </Grid>
       </Grid>
     </Layout>
