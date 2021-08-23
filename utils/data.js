@@ -159,7 +159,8 @@ const data = {
       image: "/images/Pumps/102000.jpg",
       price: "199",
       slug: "standard-pump-102000",
-      description: "",
+      description:
+        "The OilSafe Standard Pump is the only manual transfer pump with a removable discharge hose for easy cleaning and drainage. Perfect for quickly and easily accessing hard to reach and time consuming top up points, such as gearbox and transmission applications.",
     },
     {
       name: "Pump reducer nozzle",
@@ -167,7 +168,8 @@ const data = {
       image: "/images/Pumps/102030.jpg",
       price: "199",
       slug: "pump-reducer-nozzle-102030",
-      description: "",
+      description:
+        "The Pump Reducer Nozzle accessory fits to the aluminium discharge pipe on the outlet end of the Pump hose and reduces the outlet diameter down to approximately ¼”, making oil top offs to very small fill points easy, simple, fast and clean.",
     },
     {
       name: "Premium Pump",
@@ -175,7 +177,8 @@ const data = {
       image: "/images/Pumps/102300.jpg",
       price: "199",
       slug: "premium-pump-102300",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -183,7 +186,8 @@ const data = {
       image: "/images/Pumps/102301.jpg",
       price: "199",
       slug: "premium-pump-102301",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -191,7 +195,8 @@ const data = {
       image: "/images/Pumps/102302.jpg",
       price: "199",
       slug: "premium-pump-102302",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -199,7 +204,8 @@ const data = {
       image: "/images/Pumps/102303.jpg",
       price: "199",
       slug: "premium-pump-102303",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -207,7 +213,8 @@ const data = {
       image: "/images/Pumps/102304.jpg",
       price: "199",
       slug: "premium-pump-102304",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -215,7 +222,8 @@ const data = {
       image: "/images/Pumps/102305.jpg",
       price: "199",
       slug: "premium-pump-102305",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -223,7 +231,8 @@ const data = {
       image: "/images/Pumps/102306.jpg",
       price: "199",
       slug: "premium-pump-102306",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -231,7 +240,8 @@ const data = {
       image: "/images/Pumps/102307.jpg",
       price: "199",
       slug: "premium-pump-102307",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -239,7 +249,8 @@ const data = {
       image: "/images/Pumps/102308.jpg",
       price: "199",
       slug: "premium-pump-102308",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Premium Pump",
@@ -247,7 +258,8 @@ const data = {
       image: "/images/Pumps/102309.jpg",
       price: "199",
       slug: "premium-pump-102309",
-      description: "",
+      description:
+        "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
     },
     {
       name: "Storage Lid",
@@ -255,7 +267,8 @@ const data = {
       image: "/images/StorageLid/100100.jpg",
       price: "199",
       slug: "storage-lid-100100",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -263,7 +276,8 @@ const data = {
       image: "/images/StorageLid/100101.jpg",
       price: "199",
       slug: "storage-lid-100101",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -271,7 +285,8 @@ const data = {
       image: "/images/StorageLid/100102.jpg",
       price: "199",
       slug: "storage-lid-100102",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -279,7 +294,8 @@ const data = {
       image: "/images/StorageLid/100103.jpg",
       price: "199",
       slug: "storage-lid-100103",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -287,7 +303,8 @@ const data = {
       image: "/images/StorageLid/100104.jpg",
       price: "199",
       slug: "storage-lid-100104",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -295,7 +312,8 @@ const data = {
       image: "/images/StorageLid/100105.jpg",
       price: "199",
       slug: "storage-lid-100105",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -303,7 +321,8 @@ const data = {
       image: "/images/StorageLid/100106.jpg",
       price: "199",
       slug: "storage-lid-100106",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -311,7 +330,8 @@ const data = {
       image: "/images/StorageLid/100107.jpg",
       price: "199",
       slug: "storage-lid-100107",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -319,7 +339,8 @@ const data = {
       image: "/images/StorageLid/100108.jpg",
       price: "199",
       slug: "storage-lid-100108",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
       name: "Storage Lid",
@@ -327,87 +348,98 @@ const data = {
       image: "/images/StorageLid/100109.jpg",
       price: "199",
       slug: "storage-lid-100109",
-      description: "",
+      description:
+        "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100300.jpg",
       price: "199",
-      slug: "stretch-lid-100300",
-      description: "",
+      slug: "stretch-spout-lid-100300",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100301.jpg",
       price: "199",
-      slug: "stretch-lid-100301",
-      description: "",
+      slug: "stretch-spout-lid-100301",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100302.jpg",
       price: "199",
-      slug: "stretch-lid-100302",
-      description: "",
+      slug: "stretch-spout-lid-100302",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100303.jpg",
       price: "199",
-      slug: "stretch-lid-100303",
-      description: "",
+      slug: "stretch-spout-lid-100303",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100304.jpg",
       price: "199",
-      slug: "stretch-lid-100304",
-      description: "",
+      slug: "stretch-spout-lid-100304",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100305.jpg",
       price: "199",
-      slug: "stretch-lid-100305",
-      description: "",
+      slug: "stretch-spout-lid-100305",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100306.jpg",
       price: "199",
-      slug: "stretch-lid-100306",
-      description: "",
+      slug: "stretch-spout-lid-100306",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100307.jpg",
       price: "199",
-      slug: "stretch-lid-100307",
-      description: "",
+      slug: "stretch-spout-lid-100307",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100308.jpg",
       price: "199",
-      slug: "stretch-lid-100308",
-      description: "",
+      slug: "stretch-spout-lid-100308",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
-      name: "Stretch Lid",
-      category: "StretchLid",
+      name: "Stretch Spout Lid",
+      category: "StretchSpoutLid",
       image: "/images/StretchLid/100309.jpg",
       price: "199",
-      slug: "stretch-lid-100309",
-      description: "",
+      slug: "stretch-spout-lid-100309",
+      description:
+        "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
     },
     {
       name: "Stumpy Spout Lid",
