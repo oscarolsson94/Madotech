@@ -15,7 +15,8 @@ const data = {
       image: "/images/Drums/101002.jpg",
       price: "199",
       slug: "drum-101002",
-      description: "",
+      description:
+        "This compact OilSafe 2 Liter Drum is ideal for top-up work on small to mid-sized sumps. Fully interchangeable with OilSafe lids these drums have an extra wide neck opening for rapid pouring and easy cleaning.",
     },
     {
       name: "3.0 liter drum",
@@ -23,7 +24,8 @@ const data = {
       image: "/images/Drums/101003.jpg",
       price: "199",
       slug: "drum-101003",
-      description: "",
+      description:
+        "This compact OilSafe 3 Liter Drum is a very practical size for servicing small to mid-range equipment filler applications. Fully interchangeable with OilSafe lids these drums have an extra wide neck opening for rapid pouring and easy cleaning.",
     },
     {
       name: "5.0 liter drum",
@@ -31,7 +33,8 @@ const data = {
       image: "/images/Drums/101005.jpg",
       price: "199",
       slug: "drum-101005",
-      description: "",
+      description:
+        "This OilSafe 5 Liter Drum is an excellent all-round size for a host of standard applications from engines and pumps to turbines and gearboxes. Fully interchangeable with OilSafe lids these drums have an extra wide neck opening for rapid pouring and easy cleaning.",
     },
     {
       name: "10.0 liter drum",
@@ -39,7 +42,8 @@ const data = {
       image: "/images/Drums/101010.jpg",
       price: "199",
       slug: "drum-101010",
-      description: "",
+      description:
+        "This OilSafe 10 Liter Drum is the ideal size for large sump fill applications while still maintaining mobility and ease of use without all the heavy lifting and potential back injuries from lifting larger impractical drums. Fully interchangeable with OilSafe lids, these drums have an extra wide neck opening for rapid pouring and easy cleaning.",
     },
     {
       name: "Stretch extension hose",
@@ -47,7 +51,8 @@ const data = {
       image: "/images/Hoses/102020mod2.jpg",
       price: "199",
       slug: "hose-102020mod2",
-      description: "",
+      description:
+        "The flexible, Stretch Spout Hose Extension attaches to the OilSafe Stretch Spout Lid. Helping awkward or hard-to-reach fill points easy and fast to access and service. The addition of the Stretch Hose Extension to the outlet spout of the Stretch Spout Lid also eliminates the need for funnels, which are notorious for attracting contaminants. The hose can be removed from the fittings and the length cut to suit the application.",
     },
     {
       name: "Stumpy extension hose",
@@ -55,7 +60,8 @@ const data = {
       image: "/images/Hoses/102021.jpg",
       price: "199",
       slug: "hose-102021",
-      description: "",
+      description:
+        "The flexible, Stumpy Spout Hose Extension attaches to the OilSafe Stumpy Spout Lid. Helping awkward or hard-to-reach fill points easy and fast to access and service. The addition of the Stumpy Hose Extension to the outlet spout of the Stumpy Spout Lid also eliminates the need for funnels, which are notorious for attracting contaminants. The hose can be removed from the fittings and the length cut to suit the application.",
     },
     {
       name: "Mini Spout Lid",
@@ -63,7 +69,8 @@ const data = {
       image: "/images/MiniSpoutLid/100400.jpg",
       price: "199",
       slug: "mini-spout-lid-100400",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -71,7 +78,8 @@ const data = {
       image: "/images/MiniSpoutLid/100401.jpg",
       price: "199",
       slug: "mini-spout-lid-100401",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -79,7 +87,8 @@ const data = {
       image: "/images/MiniSpoutLid/100402.jpg",
       price: "199",
       slug: "mini-spout-lid-100402",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -87,7 +96,8 @@ const data = {
       image: "/images/MiniSpoutLid/100403.jpg",
       price: "199",
       slug: "mini-spout-lid-100403",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -95,7 +105,8 @@ const data = {
       image: "/images/MiniSpoutLid/100404.jpg",
       price: "199",
       slug: "mini-spout-lid-100404",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -103,7 +114,8 @@ const data = {
       image: "/images/MiniSpoutLid/100405.jpg",
       price: "199",
       slug: "mini-spout-lid-100405",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -111,7 +123,8 @@ const data = {
       image: "/images/MiniSpoutLid/100406.jpg",
       price: "199",
       slug: "mini-spout-lid-100406",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -119,7 +132,8 @@ const data = {
       image: "/images/MiniSpoutLid/100407.jpg",
       price: "199",
       slug: "mini-spout-lid-100407",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -127,7 +141,8 @@ const data = {
       image: "/images/MiniSpoutLid/100408.jpg",
       price: "199",
       slug: "mini-spout-lid-100408",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Mini Spout Lid",
@@ -135,7 +150,8 @@ const data = {
       image: "/images/MiniSpoutLid/100409.jpg",
       price: "199",
       slug: "mini-spout-lid-100409",
-      description: "",
+      description:
+        "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
     },
     {
       name: "Standard Pump",
