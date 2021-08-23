@@ -1,4 +1,4 @@
-import { Link } from "@material-ui/core";
+import { Grid, Link } from "@material-ui/core";
 import { useRouter } from "next/router";
 import React from "react";
 import Layout from "../../components/Layout";
@@ -25,6 +25,9 @@ const ProductScreen = () => {
           <Link>Back to Products</Link>
         </NextLink>
       </div>
+      <Grid container spacing={1}>
+        <Grid item md={6} xs={12}></Grid>
+      </Grid>
     </Layout>
   );
 };
