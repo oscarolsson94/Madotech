@@ -4,8 +4,11 @@ import React from "react";
 import Layout from "../../components/Layout";
 import data from "../../utils/data";
 import NextLink from "next/link";
+import useStyles from "../../utils/styles";
 
 const ProductScreen = () => {
+  const classes = useStyles();
+
   const router = useRouter();
   const { slug } = router.query;
 
@@ -17,7 +20,7 @@ const ProductScreen = () => {
 
   return (
     <Layout title={product.name}>
-      <div>
+      <div className={classes.section}>
         <NextLink href="/" passHref>
           <Link>Back to Products</Link>
         </NextLink>
