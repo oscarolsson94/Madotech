@@ -19,7 +19,7 @@ export default function Drums() {
   return (
     <Layout>
       <div>
-        <h1>Products</h1>
+        <h1>Drums</h1>
         <Grid container spacing={3}>
           {products.map((product) => (
             <Grid item md={3} sm={6} xs={12} key={product.image}>
