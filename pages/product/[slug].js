@@ -28,7 +28,7 @@ const ProductScreen = () => {
   }
 
   return (
-    <Layout title={product.name}>
+    <Layout title={product.name} description={product.description}>
       <div className={classes.section}>
         <NextLink href="/" passHref>
           <Link>Back to Products</Link>
