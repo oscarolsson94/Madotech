@@ -15,6 +15,9 @@ const useStyles = makeStyles({
   grow: {
     flexGrow: 1,
   },
+  banner: {
+    marginTop: 50,
+  },
   main: {
     minHeight: "80vh",
   },
