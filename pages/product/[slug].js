@@ -5,6 +5,7 @@ import {
   ListItem,
   Typography,
   Card,
+  Button,
 } from "@material-ui/core";
 import { useRouter } from "next/router";
 import React from "react";
@@ -71,24 +72,12 @@ const ProductScreen = () => {
             <ListItem>
               <Typography>{product.description}</Typography>
             </ListItem>
+            <ListItem>
+              <Button fullWidth variant="contained" color="primary">
+                Add to cart
+              </Button>
+            </ListItem>
           </List>
-        </Grid>
-
-        <Grid item md={3} xs={12}>
-          <Card>
-            <List>
-              <ListItem>
-                <Grid container>
-                  <Grid item xs={6}>
-                    <Typography>Price</Typography>
-                  </Grid>
-                  <Grid item xs={6}>
-                    <Typography>{product.price} kr</Typography>
-                  </Grid>
-                </Grid>
-              </ListItem>
-            </List>
-          </Card>
         </Grid>
       </Grid>
     </Layout>
