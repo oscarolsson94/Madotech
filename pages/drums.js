@@ -11,26 +11,17 @@ import {
 import Layout from "../components/Layout";
 import data from "../utils/data";
 import NextLink from "next/link";
-import useStyles from "../utils/styles";
-import Image from "next/image";
 
-export default function Home() {
-  const classes = useStyles();
+export default function Drums() {
+  const products = data.products.filter(
+    (product) => product.category === "Drums"
+  );
   return (
     <Layout>
       <div>
-        <div className={classes.banner}>
-          <Image
-            src={"/images/ship.jpg"}
-            alt={"ship in the ocean"}
-            width={1920}
-            height={700}
-            layout="responsive"
-          ></Image>
-        </div>
         <h1>Products</h1>
         <Grid container spacing={3}>
-          {data.products.map((product) => (
+          {products.map((product) => (
             <Grid item md={3} sm={6} xs={12} key={product.image}>
               <Card>
                 <NextLink href={`/product/${product.slug}`} passHref>
