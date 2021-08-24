@@ -34,6 +34,7 @@ const Layout = ({ title, children, description }) => {
       <Head>
         <title>{title ? `${title} - Madotech` : "Madotech"} </title>
         {description && <meta name="description" content={description}></meta>}
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
