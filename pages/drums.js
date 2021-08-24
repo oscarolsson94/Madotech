@@ -5,6 +5,8 @@ import {
   CardMedia,
   Grid,
   Typography,
+  CardActions,
+  Button,
 } from "@material-ui/core";
 import Layout from "../components/Layout";
 import data from "../utils/data";
@@ -26,23 +28,29 @@ export default function Home() {
             layout="responsive"
           ></Image>
         </div>
-        <h1>Product Categories</h1>
+        <h1>Products</h1>
         <Grid container spacing={3}>
-          {data.categories.map((category) => (
-            <Grid item md={3} sm={6} xs={12} key={category.image}>
+          {data.products.map((product) => (
+            <Grid item md={3} sm={6} xs={12} key={product.image}>
               <Card>
-                <NextLink href={`/${category.name.toLowerCase()}`} passHref>
+                <NextLink href={`/product/${product.slug}`} passHref>
                   <CardActionArea>
                     <CardMedia
                       component="img"
-                      image={category.image}
-                      title={category.name}
+                      image={product.image}
+                      title={product.name}
                     ></CardMedia>
                     <CardContent>
-                      <Typography>{category.name}</Typography>
+                      <Typography>{product.name}</Typography>
                     </CardContent>
                   </CardActionArea>
                 </NextLink>
+                <CardActions>
+                  <Typography>{product.price} kr</Typography>
+                  <Button size="small" variant="contained" color="primary">
+                    Add to cart
+                  </Button>
+                </CardActions>
               </Card>
             </Grid>
           ))}

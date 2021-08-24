@@ -691,6 +691,24 @@ const data = {
       details: "",
     },
   ],
+  categories: [
+    {
+      name: "Drums",
+      image: "/images/drums.jpg",
+    },
+    {
+      name: "Hoses",
+      image: "/images/hoses.jpg",
+    },
+    {
+      name: "Lids",
+      image: "/images/lids.jpg",
+    },
+    {
+      name: "Pumps",
+      image: "/images/pumps.jpg",
+    },
+  ],
 };
 
 export default data;
