@@ -8,15 +8,24 @@ import {
   CardActions,
   Button,
   Divider,
+  Link,
 } from "@material-ui/core";
 import Layout from "../components/Layout";
 import data from "../utils/data";
 import NextLink from "next/link";
+import useStyles from "../utils/styles";
 
 export default function Lids() {
+  const classes = useStyles();
   return (
     <Layout>
       <div>
+        <div className={classes.section}>
+          <NextLink href="/" passHref>
+            <Link>Back to Products</Link>
+          </NextLink>
+          {` | Lids`}
+        </div>
         <h1>Mini Spout Lids</h1>
         <Grid container spacing={3}>
           {data.products
