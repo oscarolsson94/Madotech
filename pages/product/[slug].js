@@ -5,6 +5,7 @@ import {
   ListItem,
   Typography,
   Button,
+  Divider,
 } from "@material-ui/core";
 import { useRouter } from "next/router";
 import React from "react";
@@ -83,6 +84,9 @@ const ProductScreen = () => {
           </List>
         </Grid>
       </Grid>
+      <Typography variant="h2">Details</Typography>
+      <Divider />
+      <Typography>{product.details}</Typography>
     </Layout>
   );
 };
