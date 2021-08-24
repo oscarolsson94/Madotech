@@ -26,8 +26,21 @@ const Layout = ({ title, children, description }) => {
         fontWeight: 400,
         margin: "1rem 0",
       },
+      body1: {
+        fontWeight: "normal",
+      },
+    },
+    palette: {
+      type: "light",
+      primary: {
+        main: "#FFC857",
+      },
+      secondary: {
+        main: "#255f85",
+      },
     },
   });
+
   const classes = useStyles();
   return (
     <div>

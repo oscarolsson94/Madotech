@@ -3,7 +3,7 @@ import { green } from "@material-ui/core/colors";
 
 const useStyles = makeStyles({
   navbar: {
-    backgroundColor: "#203040",
+    backgroundColor: "#255f85",
     "& a": {
       color: "#ffffff",
       marginLeft: 10,
