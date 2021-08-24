@@ -2,6 +2,7 @@ import {
   AppBar,
   Container,
   createTheme,
+  CssBaseline,
   Link,
   ThemeProvider,
   Toolbar,
@@ -35,6 +36,7 @@ const Layout = ({ title, children, description }) => {
         {description && <meta name="description" content={description}></meta>}
       </Head>
       <ThemeProvider theme={theme}>
+        <CssBaseline />
         <AppBar className={classes.navbar} position="static">
           <Toolbar>
             <NextLink href="/" passHref>
