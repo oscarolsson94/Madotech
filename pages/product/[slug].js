@@ -4,7 +4,6 @@ import {
   List,
   ListItem,
   Typography,
-  Card,
   Button,
 } from "@material-ui/core";
 import { useRouter } from "next/router";
