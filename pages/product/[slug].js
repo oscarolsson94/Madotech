@@ -45,8 +45,11 @@ const ProductScreen = () => {
             layout="responsive"
           ></Image>
         </Grid>
-        <Grid item md={3} xs={12}>
+        <Grid item md={6} xs={12}>
           <List>
+            <ListItem>
+              <Typography variant="h5">{`Oilsafe ${product.name}`}</Typography>
+            </ListItem>
             <ListItem>
               <Typography>Category: {product.category}</Typography>
             </ListItem>
@@ -66,9 +69,7 @@ const ProductScreen = () => {
             <ListItem>
               <Typography>{`Price: ${product.price} kr`}</Typography>
             </ListItem>
-            <ListItem>
-              <Typography>{`Oilsafe ${product.name}`}</Typography>
-            </ListItem>
+
             <ListItem>
               <Typography>{product.description}</Typography>
             </ListItem>
