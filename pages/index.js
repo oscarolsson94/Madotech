@@ -35,7 +35,7 @@ export default function Home() {
                 </NextLink>
                 <CardActions>
                   <Typography>{product.price} kr</Typography>
-                  <Button size="small" color="primary">
+                  <Button size="small" variant="contained" color="primary">
                     Add to cart
                   </Button>
                 </CardActions>
