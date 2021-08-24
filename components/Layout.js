@@ -4,16 +4,21 @@ import {
   createTheme,
   CssBaseline,
   Link,
+  Switch,
   ThemeProvider,
   Toolbar,
   Typography,
 } from "@material-ui/core";
 import Head from "next/head";
-import React from "react";
+import React, { useContext } from "react";
 import useStyles from "../utils/styles";
 import NextLink from "next/link";
+import { Store } from "../utils/Store";
 
 const Layout = ({ title, children, description }) => {
+  const { state, dispatch } = useContext(Store);
+  const { darkMode } = state; //Getting access to darkMode from context
+
   const theme = createTheme({
     typography: {
       h1: {
@@ -31,7 +36,7 @@ const Layout = ({ title, children, description }) => {
       },
     },
     palette: {
-      type: "light",
+      type: darkMode ? "dark" : "light",
       primary: {
         main: "#FFC857",
       },
@@ -42,6 +47,9 @@ const Layout = ({ title, children, description }) => {
   });
 
   const classes = useStyles();
+  const darkModeChangeHandler = () => {
+    dispatch({ type: darkMode ? "DARK_MODE_OFF" : "DARK_MODE_ON" });
+  };
   return (
     <div>
       <Head>
@@ -60,6 +68,10 @@ const Layout = ({ title, children, description }) => {
             </NextLink>
             <div className={classes.grow}></div>
             <div>
+              <Switch
+                checked={darkMode}
+                onChange={darkModeChangeHandler}
+              ></Switch>
               <NextLink href="/cart" passHref>
                 <Link>Cart</Link>
               </NextLink>
