@@ -1,4 +1,4 @@
-import { Grid, Link, List, ListItem } from "@material-ui/core";
+import { Grid, Link, List, ListItem, Typography } from "@material-ui/core";
 import { useRouter } from "next/router";
 import React from "react";
 import Layout from "../../components/Layout";
@@ -39,9 +39,13 @@ const ProductScreen = () => {
         </Grid>
         <Grid item md={3} xs={12}>
           <List>
-            <ListItem>Category: {product.category}</ListItem>
             <ListItem>
-              Availability: <span className={classes.span}>In Stock</span>
+              <Typography>Category: {product.category}</Typography>
+            </ListItem>
+            <ListItem>
+              <Typography>
+                Availability: <span className={classes.span}>In Stock</span>
+              </Typography>
             </ListItem>
             <ListItem>
               <Image
@@ -51,9 +55,15 @@ const ProductScreen = () => {
                 height={30}
               ></Image>
             </ListItem>
-            <ListItem>{`Price: ${product.price} kr`}</ListItem>
-            <ListItem>{`Oilsafe ${product.name}`}</ListItem>
-            <ListItem>{product.description}</ListItem>
+            <ListItem>
+              <Typography>{`Price: ${product.price} kr`}</Typography>
+            </ListItem>
+            <ListItem>
+              <Typography>{`Oilsafe ${product.name}`}</Typography>
+            </ListItem>
+            <ListItem>
+              <Typography>{product.description}</Typography>
+            </ListItem>
           </List>
         </Grid>
       </Grid>
