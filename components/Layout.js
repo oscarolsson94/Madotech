@@ -3,6 +3,7 @@ import {
   Container,
   createTheme,
   CssBaseline,
+  Divider,
   Link,
   Switch,
   ThemeProvider,
@@ -85,6 +86,7 @@ const Layout = ({ title, children, description }) => {
           </Toolbar>
         </AppBar>
         <Container className={classes.main}>{children}</Container>
+        <Divider className={classes.lineBreak} />
         <footer className={classes.footer}>
           <Typography>All rights reserved. Madotech</Typography>
         </footer>
