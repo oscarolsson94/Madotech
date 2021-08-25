@@ -12,3 +12,9 @@ const productSchema = new mongoose.Schema(
   },
   { timestamps: true }
 );
+
+const Product =
+  mongoose.models.Product || mongoose.model("Product", productSchema);
+//if we have the model already, assign it. Otherwise create new model.
+
+export default Product;
