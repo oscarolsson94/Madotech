@@ -7,7 +7,6 @@ import {
   Typography,
   CardActions,
   Button,
-  Divider,
   Link,
 } from "@material-ui/core";
 import Layout from "../components/Layout";
@@ -54,7 +53,6 @@ export default function Lids() {
                 </Card>
               </Grid>
             ))}
-          <Divider />
         </Grid>
         <h1>Storage Lids</h1>
         <Grid container spacing={3}>
