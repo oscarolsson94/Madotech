@@ -11,7 +11,7 @@ import {
   Typography,
   Badge,
 } from "@material-ui/core";
-import { ShoppingCart } from "@material-ui/icons";
+import { FullscreenExitTwoTone, ShoppingCart } from "@material-ui/icons";
 import Head from "next/head";
 import React, { useContext, useState } from "react";
 import useStyles from "../utils/styles";
@@ -28,11 +28,12 @@ const Layout = ({ title, children, description }) => {
   const burgerStyles = {
     bmBurgerButton: {
       position: "fixed",
-      width: "36px",
-      height: "30px",
+      right: 75,
+      width: "26px",
+      height: "20px",
     },
     bmBurgerBars: {
-      background: "#373a47",
+      background: "#ffffff",
     },
     bmBurgerBarsHover: {
       background: "#a90000",
@@ -42,7 +43,7 @@ const Layout = ({ title, children, description }) => {
       width: "24px",
     },
     bmCross: {
-      background: "#bdc3c7",
+      background: "#ffffff",
     },
     bmMenuWrap: {
       position: "fixed",
@@ -59,6 +60,8 @@ const Layout = ({ title, children, description }) => {
     bmItemList: {
       color: "#b8b7ad",
       padding: "0.8em",
+      display: "flex",
+      flexDirection: "column",
     },
     bmItem: {
       display: "inline-block",
