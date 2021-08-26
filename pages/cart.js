@@ -28,9 +28,11 @@ function CartScreen() {
     cart: { cartItems },
   } = state;
 
-  const updateCartHandler = async (item, quantity) => {
+  const updateCartHandler = (item, quantity) => {
     dispatch({ type: "CART_ADD_ITEM", payload: { ...item, quantity } });
   };
+
+  const removeItemHandler = (item) => {};
 
   return (
     <Layout title="Shopping Cart">
@@ -94,7 +96,11 @@ function CartScreen() {
                       </TableCell>
                       <TableCell align="right">{item.price} kr</TableCell>
                       <TableCell align="right">
-                        <Button variant="contained" color="secondary">
+                        <Button
+                          variant="contained"
+                          color="secondary"
+                          onClick={() => removeItemHandler(item)}
+                        >
                           x
                         </Button>
                       </TableCell>
