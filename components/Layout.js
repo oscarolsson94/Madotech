@@ -181,7 +181,7 @@ const Layout = ({ title, children, description }) => {
                       <ShoppingCart />
                     </Badge>
                   ) : (
-                    "Cart"
+                    <ShoppingCart />
                   )}
                 </Link>
               </NextLink>
