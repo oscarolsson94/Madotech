@@ -23,10 +23,14 @@ import {
 } from "@material-ui/core";
 
 function CartScreen() {
-  const { state } = useContext(Store);
+  const { state, dispatch } = useContext(Store);
   const {
     cart: { cartItems },
   } = state;
+
+  const updateCartHandler = async (item, quantity) => {
+    dispatch({ type: "CART_ADD_ITEM", payload: { ...item, quantity } });
+  };
 
   return (
     <Layout title="Shopping Cart">
@@ -75,7 +79,12 @@ function CartScreen() {
                         </NextLink>
                       </TableCell>
                       <TableCell align="right">
-                        <Select value={item.quantity}>
+                        <Select
+                          value={item.quantity}
+                          onChange={(e) =>
+                            updateCartHandler(item, e.target.value)
+                          }
+                        >
                           {[...Array(20).keys()].map((x) => (
                             <MenuItem key={x + 1} value={x + 1}>
                               {x + 1}
