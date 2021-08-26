@@ -20,7 +20,7 @@ import Cookies from "js-cookie";
 
 const Layout = ({ title, children, description }) => {
   const { state, dispatch } = useContext(Store);
-  const { darkMode, cart } = state; //Getting access to darkMode from context
+  const { darkMode, cart } = state;
 
   const theme = createTheme({
     typography: {
@@ -73,6 +73,15 @@ const Layout = ({ title, children, description }) => {
             </NextLink>
             <div className={classes.grow}></div>
             <div>
+              <NextLink href="/" passHref>
+                <Link>Home</Link>
+              </NextLink>
+              <NextLink href="/contact" passHref>
+                <Link>Contact</Link>
+              </NextLink>
+              <NextLink href="/about" passHref>
+                <Link>About us</Link>
+              </NextLink>
               <Switch
                 checked={darkMode}
                 onChange={darkModeChangeHandler}
@@ -87,9 +96,6 @@ const Layout = ({ title, children, description }) => {
                     "Cart"
                   )}
                 </Link>
-              </NextLink>
-              <NextLink href="/login" passHref>
-                <Link>Login</Link>
               </NextLink>
             </div>
           </Toolbar>
