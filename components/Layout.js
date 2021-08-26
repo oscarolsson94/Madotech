@@ -30,10 +30,12 @@ const Layout = ({ title, children, description }) => {
 
   const burgerStyles = {
     bmBurgerButton: {
-      position: "fixed",
-      right: 75,
+      position: "relative",
       width: "26px",
       height: "20px",
+      right: "50px",
+      top: "15px",
+      float: "right",
     },
     bmBurgerBars: {
       background: "#ffffff",
