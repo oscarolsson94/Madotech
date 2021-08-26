@@ -11,13 +11,10 @@ import {
   Typography,
   Badge,
 } from "@material-ui/core";
-import {
-  ShoppingCart,
-  HomeOutlinedIcon,
-  ContactMailOutlinedIcon,
-  QuestionAnswerOutlinedIcon,
-  AddShoppingCartOutlinedIcon,
-} from "@material-ui/icons";
+import { ShoppingCart } from "@material-ui/icons";
+import EmailOutlinedIcon from "@material-ui/icons/EmailOutlined";
+import HomeOutlinedIcon from "@material-ui/icons/HomeOutlined";
+import QuestionAnswerOutlinedIcon from "@material-ui/icons/QuestionAnswerOutlined";
 import Head from "next/head";
 import React, { useContext } from "react";
 import useStyles from "../utils/styles";
@@ -138,13 +135,22 @@ const Layout = ({ title, children, description }) => {
               {isMobile ? (
                 <Menu right styles={burgerStyles}>
                   <NextLink href="/" passHref>
-                    <Link>Home</Link>
+                    <div className={classes.linkdiv}>
+                      <HomeOutlinedIcon className={classes.links} />
+                      <Link>Home</Link>
+                    </div>
                   </NextLink>
                   <NextLink href="/contact" passHref>
-                    <Link>Contact</Link>
+                    <div className={classes.linkdiv}>
+                      <EmailOutlinedIcon className={classes.links} />
+                      <Link>Contact</Link>
+                    </div>
                   </NextLink>
                   <NextLink href="/about" passHref>
-                    <Link>About us</Link>
+                    <div className={classes.linkdiv}>
+                      <QuestionAnswerOutlinedIcon className={classes.links} />
+                      <Link>About us</Link>
+                    </div>
                   </NextLink>
                   <Switch
                     checked={darkMode}

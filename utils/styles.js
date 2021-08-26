@@ -45,5 +45,18 @@ const useStyles = makeStyles({
     color: "#FFC857",
     fontWeight: "bold",
   },
+  links: {
+    marginRight: 10,
+    color: "#ffffff",
+  },
+  linkdiv: {
+    display: "flex",
+    alignItems: "center",
+    cursor: "pointer",
+    "& a:hover": {
+      textDecoration: "none",
+      color: "#FFC857",
+    },
+  },
 });
 export default useStyles;
