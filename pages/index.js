@@ -30,7 +30,7 @@ export default function Home() {
         <Grid container spacing={3}>
           {data.categories.map((category) => (
             <Grid item md={3} sm={6} xs={12} key={category.image}>
-              <Card>
+              <Card className={classes.shadow}>
                 <NextLink href={`/${category.name.toLowerCase()}`} passHref>
                   <CardActionArea>
                     <CardMedia

@@ -41,7 +41,7 @@ function Hoses() {
             .filter((product) => product.category === "Hoses")
             .map((product) => (
               <Grid item md={3} sm={6} xs={12} key={product.image}>
-                <Card>
+                <Card className={classes.shadow}>
                   <NextLink href={`/product/${product.slug}`} passHref>
                     <CardActionArea>
                       <CardMedia

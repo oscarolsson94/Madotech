@@ -41,7 +41,7 @@ function Lids() {
             .filter((product) => product.category === "MiniSpoutLid")
             .map((product) => (
               <Grid item md={3} sm={6} xs={12} key={product.image}>
-                <Card>
+                <Card className={classes.shadow}>
                   <NextLink href={`/product/${product.slug}`} passHref>
                     <CardActionArea>
                       <CardMedia
@@ -80,7 +80,7 @@ function Lids() {
             .filter((product) => product.category === "StorageLid")
             .map((product) => (
               <Grid item md={3} sm={6} xs={12} key={product.image}>
-                <Card>
+                <Card className={classes.shadow}>
                   <NextLink href={`/product/${product.slug}`} passHref>
                     <CardActionArea>
                       <CardMedia
@@ -119,7 +119,7 @@ function Lids() {
             .filter((product) => product.category === "StretchSpoutLid")
             .map((product) => (
               <Grid item md={3} sm={6} xs={12} key={product.image}>
-                <Card>
+                <Card className={classes.shadow}>
                   <NextLink href={`/product/${product.slug}`} passHref>
                     <CardActionArea>
                       <CardMedia
@@ -158,7 +158,7 @@ function Lids() {
             .filter((product) => product.category === "StumpySpoutLid")
             .map((product) => (
               <Grid item md={3} sm={6} xs={12} key={product.image}>
-                <Card>
+                <Card className={classes.shadow}>
                   <NextLink href={`/product/${product.slug}`} passHref>
                     <CardActionArea>
                       <CardMedia
@@ -197,7 +197,7 @@ function Lids() {
             .filter((product) => product.category === "UtilityLid")
             .map((product) => (
               <Grid item md={3} sm={6} xs={12} key={product.image}>
-                <Card>
+                <Card className={classes.shadow}>
                   <NextLink href={`/product/${product.slug}`} passHref>
                     <CardActionArea>
                       <CardMedia
