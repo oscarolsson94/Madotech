@@ -47,12 +47,14 @@ const Layout = ({ title, children, description }) => {
     },
     bmMenuWrap: {
       position: "fixed",
+      top: 0,
       height: "100%",
     },
     bmMenu: {
       background: "#373a47",
       padding: "2.5em 1.5em 0",
-      fontSize: "1.15em",
+      fontSize: "1.2em",
+      lineHeight: "2.5em",
     },
     bmMorphShape: {
       fill: "#373a47",
@@ -64,7 +66,7 @@ const Layout = ({ title, children, description }) => {
       flexDirection: "column",
     },
     bmItem: {
-      display: "inline-block",
+      color: "white",
     },
     bmOverlay: {
       background: "rgba(0, 0, 0, 0.3)",
