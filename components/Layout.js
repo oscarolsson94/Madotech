@@ -10,6 +10,7 @@ import {
   Toolbar,
   Typography,
   Badge,
+  Hidden,
 } from "@material-ui/core";
 import Head from "next/head";
 import React, { useContext } from "react";
@@ -72,20 +73,23 @@ const Layout = ({ title, children, description }) => {
               </Link>
             </NextLink>
             <div className={classes.grow}></div>
+
             <div>
-              <NextLink href="/" passHref>
-                <Link>Home</Link>
-              </NextLink>
-              <NextLink href="/contact" passHref>
-                <Link>Contact</Link>
-              </NextLink>
-              <NextLink href="/about" passHref>
-                <Link>About us</Link>
-              </NextLink>
-              <Switch
-                checked={darkMode}
-                onChange={darkModeChangeHandler}
-              ></Switch>
+              <Hidden xsDown>
+                <NextLink href="/" passHref>
+                  <Link>Home</Link>
+                </NextLink>
+                <NextLink href="/contact" passHref>
+                  <Link>Contact</Link>
+                </NextLink>
+                <NextLink href="/about" passHref>
+                  <Link>About us</Link>
+                </NextLink>
+                <Switch
+                  checked={darkMode}
+                  onChange={darkModeChangeHandler}
+                ></Switch>
+              </Hidden>
               <NextLink href="/cart" passHref>
                 <Link>
                   {cart.cartItems.length > 0 ? (
