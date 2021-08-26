@@ -11,7 +11,13 @@ import {
   Typography,
   Badge,
 } from "@material-ui/core";
-import { ShoppingCart } from "@material-ui/icons";
+import {
+  ShoppingCart,
+  HomeOutlinedIcon,
+  ContactMailOutlinedIcon,
+  QuestionAnswerOutlinedIcon,
+  AddShoppingCartOutlinedIcon,
+} from "@material-ui/icons";
 import Head from "next/head";
 import React, { useContext } from "react";
 import useStyles from "../utils/styles";
