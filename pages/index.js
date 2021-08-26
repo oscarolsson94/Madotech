@@ -39,7 +39,9 @@ export default function Home() {
                       title={category.name}
                     ></CardMedia>
                     <CardContent>
-                      <Typography>{category.name}</Typography>
+                      <Typography align="center" className={classes.bold}>
+                        {category.name}
+                      </Typography>
                     </CardContent>
                   </CardActionArea>
                 </NextLink>

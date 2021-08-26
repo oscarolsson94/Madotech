@@ -49,7 +49,9 @@ function Hoses() {
                         title={product.name}
                       ></CardMedia>
                       <CardContent>
-                        <Typography>{product.name}</Typography>
+                        <Typography className={classes.bold}>
+                          {product.name}
+                        </Typography>
                       </CardContent>
                     </CardActionArea>
                   </NextLink>

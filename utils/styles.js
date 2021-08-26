@@ -36,5 +36,8 @@ const useStyles = makeStyles({
   lineBreak: {
     marginTop: 20,
   },
+  bold: {
+    fontWeight: "bold",
+  },
 });
 export default useStyles;
