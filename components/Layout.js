@@ -19,6 +19,7 @@ import useStyles from "../utils/styles";
 import NextLink from "next/link";
 import { Store } from "../utils/Store";
 import Cookies from "js-cookie";
+import { slide as Menu } from "react-burger-menu";
 
 const Layout = ({ title, children, description }) => {
   const { state, dispatch } = useContext(Store);
@@ -90,6 +91,22 @@ const Layout = ({ title, children, description }) => {
                   checked={darkMode}
                   onChange={darkModeChangeHandler}
                 ></Switch>
+              </Hidden>
+              <Hidden smUp>
+                <Menu right>
+                  <p id="home" className="menu-item" href="/">
+                    Home
+                  </p>
+                  <p id="about" className="menu-item" href="/about">
+                    About
+                  </p>
+                  <p id="contact" className="menu-item" href="/contact">
+                    Contact
+                  </p>
+                  <p className="menu-item--small" href="">
+                    Settings
+                  </p>
+                </Menu>
               </Hidden>
               <NextLink href="/cart" passHref>
                 <Link>
