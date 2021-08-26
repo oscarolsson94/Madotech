@@ -51,7 +51,8 @@ const Layout = ({ title, children, description }) => {
       height: "100%",
     },
     bmMenu: {
-      background: "#373a47",
+      /* entire background color */
+      background: "#255f85",
       padding: "2.5em 1.5em 0",
       fontSize: "1.2em",
       lineHeight: "2.5em",
@@ -66,7 +67,7 @@ const Layout = ({ title, children, description }) => {
       flexDirection: "column",
     },
     bmItem: {
-      color: "white",
+      color: "#ffffff",
     },
     bmOverlay: {
       background: "rgba(0, 0, 0, 0.3)",
