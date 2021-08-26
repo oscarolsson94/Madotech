@@ -99,7 +99,12 @@ function Pumps() {
                     <Typography className={classes.yellowText}>
                       {product.price} kr
                     </Typography>
-                    <Button size="small" variant="contained" color="secondary">
+                    <Button
+                      size="small"
+                      variant="contained"
+                      color="secondary"
+                      onClick={() => addToCartHandler(product)}
+                    >
                       <AddShoppingCartOutlinedIcon />
                       Add to cart
                     </Button>

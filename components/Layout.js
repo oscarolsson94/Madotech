@@ -34,8 +34,7 @@ const Layout = ({ title, children, description }) => {
       width: "26px",
       height: "20px",
       right: "50px",
-      top: "15px",
-      float: "right",
+      top: "2px",
     },
     bmBurgerBars: {
       background: "#ffffff",
@@ -133,7 +132,7 @@ const Layout = ({ title, children, description }) => {
             </NextLink>
             <div className={classes.grow}></div>
 
-            <div>
+            <div className={classes.linkdiv}>
               {isMobile ? (
                 <Menu right styles={burgerStyles}>
                   <NextLink href="/" passHref>
@@ -178,13 +177,9 @@ const Layout = ({ title, children, description }) => {
               )}
               <NextLink href="/cart" passHref>
                 <Link>
-                  {cart.cartItems.length > 0 ? (
-                    <Badge badgeContent={cart.cartItems.length} color="primary">
-                      <ShoppingCart />
-                    </Badge>
-                  ) : (
+                  <Badge badgeContent={cart.cartItems.length} color="primary">
                     <ShoppingCart />
-                  )}
+                  </Badge>
                 </Link>
               </NextLink>
             </div>
