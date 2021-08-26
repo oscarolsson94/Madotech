@@ -39,5 +39,9 @@ const useStyles = makeStyles({
   bold: {
     fontWeight: "bold",
   },
+  yellowText: {
+    color: "#FFC857",
+    fontWeight: "bold",
+  },
 });
 export default useStyles;

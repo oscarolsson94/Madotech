@@ -56,11 +56,13 @@ function Pumps() {
                     </CardActionArea>
                   </NextLink>
                   <CardActions>
-                    <Typography>{product.price} kr</Typography>
+                    <Typography className={classes.yellowText}>
+                      {product.price} kr
+                    </Typography>
                     <Button
                       size="small"
                       variant="contained"
-                      color="primary"
+                      color="secondary"
                       onClick={() => addToCartHandler(product)}
                     >
                       Add to cart
@@ -90,8 +92,10 @@ function Pumps() {
                     </CardActionArea>
                   </NextLink>
                   <CardActions>
-                    <Typography>{product.price} kr</Typography>
-                    <Button size="small" variant="contained" color="primary">
+                    <Typography className={classes.yellowText}>
+                      {product.price} kr
+                    </Typography>
+                    <Button size="small" variant="contained" color="secondary">
                       Add to cart
                     </Button>
                   </CardActions>
