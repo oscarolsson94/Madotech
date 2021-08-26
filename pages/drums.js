@@ -13,8 +13,9 @@ import Layout from "../components/Layout";
 import data from "../utils/data";
 import NextLink from "next/link";
 import useStyles from "../utils/styles";
+import dynamic from "next/dynamic";
 
-export default function Drums() {
+function Drums() {
   const classes = useStyles();
   return (
     <Layout>
@@ -58,3 +59,5 @@ export default function Drums() {
     </Layout>
   );
 }
+
+export default dynamic(() => Promise.resolve(Drums), { ssr: false });
