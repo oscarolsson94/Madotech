@@ -12,6 +12,7 @@ import {
   Badge,
   Hidden,
 } from "@material-ui/core";
+import { ShoppingCart } from "@material-ui/icons";
 import Head from "next/head";
 import React, { useContext } from "react";
 import useStyles from "../utils/styles";
@@ -94,7 +95,7 @@ const Layout = ({ title, children, description }) => {
                 <Link>
                   {cart.cartItems.length > 0 ? (
                     <Badge badgeContent={cart.cartItems.length} color="primary">
-                      Cart
+                      <ShoppingCart />
                     </Badge>
                   ) : (
                     "Cart"
