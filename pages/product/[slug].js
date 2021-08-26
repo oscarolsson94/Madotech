@@ -7,6 +7,7 @@ import {
   Button,
   Divider,
 } from "@material-ui/core";
+import AddShoppingCartOutlinedIcon from "@material-ui/icons/AddShoppingCartOutlined";
 import { useRouter } from "next/router";
 import React, { useContext } from "react";
 import Layout from "../../components/Layout";
@@ -92,6 +93,7 @@ const ProductScreen = () => {
                 variant="contained"
                 color="primary"
               >
+                <AddShoppingCartOutlinedIcon />
                 Add to cart
               </Button>
             </ListItem>

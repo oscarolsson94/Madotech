@@ -9,6 +9,7 @@ import {
   Button,
   Link,
 } from "@material-ui/core";
+import AddShoppingCartOutlinedIcon from "@material-ui/icons/AddShoppingCartOutlined";
 import Layout from "../components/Layout";
 import data from "../utils/data";
 import NextLink from "next/link";
@@ -65,6 +66,7 @@ function Drums() {
                       color="secondary"
                       onClick={() => addToCartHandler(product)}
                     >
+                      <AddShoppingCartOutlinedIcon />
                       Add to cart
                     </Button>
                   </CardActions>
