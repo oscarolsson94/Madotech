@@ -11,9 +11,9 @@ import {
   Typography,
   Badge,
 } from "@material-ui/core";
-import { FullscreenExitTwoTone, ShoppingCart } from "@material-ui/icons";
+import { ShoppingCart } from "@material-ui/icons";
 import Head from "next/head";
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import useStyles from "../utils/styles";
 import NextLink from "next/link";
 import { Store } from "../utils/Store";
