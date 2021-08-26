@@ -10,20 +10,22 @@ import {
   Toolbar,
   Typography,
   Badge,
-  Hidden,
 } from "@material-ui/core";
 import { ShoppingCart } from "@material-ui/icons";
 import Head from "next/head";
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import useStyles from "../utils/styles";
 import NextLink from "next/link";
 import { Store } from "../utils/Store";
 import Cookies from "js-cookie";
 import { slide as Menu } from "react-burger-menu";
+import { useMediaQuery } from "react-responsive";
 
 const Layout = ({ title, children, description }) => {
   const { state, dispatch } = useContext(Store);
   const { darkMode, cart } = state;
+
+  const [open, setOpen] = useState(false);
 
   const theme = createTheme({
     typography: {
@@ -58,6 +60,9 @@ const Layout = ({ title, children, description }) => {
     const newDarkMode = !darkMode;
     Cookies.set("darkMode", newDarkMode ? "ON" : "OFF");
   };
+
+  const isMobile = useMediaQuery({ maxWidth: 600 });
+
   return (
     <div>
       <Head>
@@ -77,37 +82,41 @@ const Layout = ({ title, children, description }) => {
             <div className={classes.grow}></div>
 
             <div>
-              <Hidden xsDown>
-                <NextLink href="/" passHref>
-                  <Link>Home</Link>
-                </NextLink>
-                <NextLink href="/contact" passHref>
-                  <Link>Contact</Link>
-                </NextLink>
-                <NextLink href="/about" passHref>
-                  <Link>About us</Link>
-                </NextLink>
-                <Switch
-                  checked={darkMode}
-                  onChange={darkModeChangeHandler}
-                ></Switch>
-              </Hidden>
-              <Hidden smUp>
-                <Menu right>
-                  <p id="home" className="menu-item" href="/">
-                    Home
-                  </p>
-                  <p id="about" className="menu-item" href="/about">
-                    About
-                  </p>
-                  <p id="contact" className="menu-item" href="/contact">
-                    Contact
-                  </p>
-                  <p className="menu-item--small" href="">
-                    Settings
-                  </p>
-                </Menu>
-              </Hidden>
+              {isMobile ? (
+                <>
+                  <Menu right>
+                    <NextLink href="/" passHref>
+                      <Link>Home</Link>
+                    </NextLink>
+                    <NextLink href="/contact" passHref>
+                      <Link>Contact</Link>
+                    </NextLink>
+                    <NextLink href="/about" passHref>
+                      <Link>About us</Link>
+                    </NextLink>
+                    <Switch
+                      checked={darkMode}
+                      onChange={darkModeChangeHandler}
+                    ></Switch>
+                  </Menu>
+                </>
+              ) : (
+                <>
+                  <NextLink href="/" passHref>
+                    <Link>Home</Link>
+                  </NextLink>
+                  <NextLink href="/contact" passHref>
+                    <Link>Contact</Link>
+                  </NextLink>
+                  <NextLink href="/about" passHref>
+                    <Link>About us</Link>
+                  </NextLink>
+                  <Switch
+                    checked={darkMode}
+                    onChange={darkModeChangeHandler}
+                  ></Switch>
+                </>
+              )}
               <NextLink href="/cart" passHref>
                 <Link>
                   {cart.cartItems.length > 0 ? (
