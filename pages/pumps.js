@@ -27,7 +27,7 @@ function Pumps() {
     dispatch({ type: "CART_ADD_ITEM", payload: { ...product, quantity } });
   };
   return (
-    <Layout>
+    <Layout title={"Pumps"}>
       <div>
         <div className={classes.section}>
           <NextLink href="/" passHref>

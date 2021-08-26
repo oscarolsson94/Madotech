@@ -27,7 +27,7 @@ function Hoses() {
     dispatch({ type: "CART_ADD_ITEM", payload: { ...product, quantity } });
   };
   return (
-    <Layout>
+    <Layout title={"Hoses"}>
       <div>
         <div className={classes.section}>
           <NextLink href="/" passHref>

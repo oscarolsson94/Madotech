@@ -56,7 +56,7 @@ const Layout = ({ title, children, description }) => {
     },
     bmMenu: {
       /* entire background color */
-      background: "#255f85",
+      background: "#255bbe",
       padding: "2.5em 1.5em 0",
       fontSize: "1.2em",
       lineHeight: "2.5em",
@@ -100,7 +100,7 @@ const Layout = ({ title, children, description }) => {
         main: "#FFC857",
       },
       secondary: {
-        main: "#255f85",
+        main: "#255bbe",
       },
     },
   });

@@ -22,7 +22,7 @@ export default function Home() {
             src={"/images/ship.jpg"}
             alt={"ship in the ocean"}
             width={1920}
-            height={700}
+            height={800}
             layout="responsive"
           ></Image>
         </div>
