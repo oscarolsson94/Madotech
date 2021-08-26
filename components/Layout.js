@@ -25,7 +25,48 @@ const Layout = ({ title, children, description }) => {
   const { state, dispatch } = useContext(Store);
   const { darkMode, cart } = state;
 
-  const [open, setOpen] = useState(false);
+  const burgerStyles = {
+    bmBurgerButton: {
+      position: "fixed",
+      width: "36px",
+      height: "30px",
+    },
+    bmBurgerBars: {
+      background: "#373a47",
+    },
+    bmBurgerBarsHover: {
+      background: "#a90000",
+    },
+    bmCrossButton: {
+      height: "24px",
+      width: "24px",
+    },
+    bmCross: {
+      background: "#bdc3c7",
+    },
+    bmMenuWrap: {
+      position: "fixed",
+      height: "100%",
+    },
+    bmMenu: {
+      background: "#373a47",
+      padding: "2.5em 1.5em 0",
+      fontSize: "1.15em",
+    },
+    bmMorphShape: {
+      fill: "#373a47",
+    },
+    bmItemList: {
+      color: "#b8b7ad",
+      padding: "0.8em",
+    },
+    bmItem: {
+      display: "inline-block",
+    },
+    bmOverlay: {
+      background: "rgba(0, 0, 0, 0.3)",
+    },
+  };
 
   const theme = createTheme({
     typography: {
@@ -83,23 +124,21 @@ const Layout = ({ title, children, description }) => {
 
             <div>
               {isMobile ? (
-                <>
-                  <Menu right>
-                    <NextLink href="/" passHref>
-                      <Link>Home</Link>
-                    </NextLink>
-                    <NextLink href="/contact" passHref>
-                      <Link>Contact</Link>
-                    </NextLink>
-                    <NextLink href="/about" passHref>
-                      <Link>About us</Link>
-                    </NextLink>
-                    <Switch
-                      checked={darkMode}
-                      onChange={darkModeChangeHandler}
-                    ></Switch>
-                  </Menu>
-                </>
+                <Menu right styles={burgerStyles}>
+                  <NextLink href="/" passHref>
+                    <Link>Home</Link>
+                  </NextLink>
+                  <NextLink href="/contact" passHref>
+                    <Link>Contact</Link>
+                  </NextLink>
+                  <NextLink href="/about" passHref>
+                    <Link>About us</Link>
+                  </NextLink>
+                  <Switch
+                    checked={darkMode}
+                    onChange={darkModeChangeHandler}
+                  ></Switch>
+                </Menu>
               ) : (
                 <>
                   <NextLink href="/" passHref>
