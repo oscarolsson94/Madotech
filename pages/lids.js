@@ -14,9 +14,15 @@ import data from "../utils/data";
 import NextLink from "next/link";
 import useStyles from "../utils/styles";
 import dynamic from "next/dynamic";
+import { useContext } from "react";
+import { Store } from "../utils/Store";
 
 function Lids() {
   const classes = useStyles();
+  const { dispatch } = useContext(Store);
+  const addToCartHandler = (product) => {
+    dispatch({ type: "CART_ADD_ITEM", payload: { ...product, quantity: 1 } });
+  };
   return (
     <Layout>
       <div>
@@ -47,7 +53,12 @@ function Lids() {
                   </NextLink>
                   <CardActions>
                     <Typography>{product.price} kr</Typography>
-                    <Button size="small" variant="contained" color="primary">
+                    <Button
+                      size="small"
+                      variant="contained"
+                      color="primary"
+                      onClick={() => addToCartHandler(product)}
+                    >
                       Add to cart
                     </Button>
                   </CardActions>
@@ -76,7 +87,12 @@ function Lids() {
                   </NextLink>
                   <CardActions>
                     <Typography>{product.price} kr</Typography>
-                    <Button size="small" variant="contained" color="primary">
+                    <Button
+                      size="small"
+                      variant="contained"
+                      color="primary"
+                      onClick={() => addToCartHandler(product)}
+                    >
                       Add to cart
                     </Button>
                   </CardActions>
@@ -105,7 +121,12 @@ function Lids() {
                   </NextLink>
                   <CardActions>
                     <Typography>{product.price} kr</Typography>
-                    <Button size="small" variant="contained" color="primary">
+                    <Button
+                      size="small"
+                      variant="contained"
+                      color="primary"
+                      onClick={() => addToCartHandler(product)}
+                    >
                       Add to cart
                     </Button>
                   </CardActions>
@@ -134,7 +155,12 @@ function Lids() {
                   </NextLink>
                   <CardActions>
                     <Typography>{product.price} kr</Typography>
-                    <Button size="small" variant="contained" color="primary">
+                    <Button
+                      size="small"
+                      variant="contained"
+                      color="primary"
+                      onClick={() => addToCartHandler(product)}
+                    >
                       Add to cart
                     </Button>
                   </CardActions>
@@ -163,7 +189,12 @@ function Lids() {
                   </NextLink>
                   <CardActions>
                     <Typography>{product.price} kr</Typography>
-                    <Button size="small" variant="contained" color="primary">
+                    <Button
+                      size="small"
+                      variant="contained"
+                      color="primary"
+                      onClick={() => addToCartHandler(product)}
+                    >
                       Add to cart
                     </Button>
                   </CardActions>
