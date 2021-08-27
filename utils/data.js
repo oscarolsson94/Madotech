@@ -477,7 +477,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -488,7 +488,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -499,7 +499,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -510,7 +510,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -521,7 +521,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -532,7 +532,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -543,7 +543,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -554,7 +554,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -565,7 +565,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stretch Spout Lid",
@@ -576,7 +576,7 @@ const data = {
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
       details: "",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
       name: "Stumpy Spout Lid",
