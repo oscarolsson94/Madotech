@@ -8,6 +8,7 @@ import {
   Divider,
 } from "@material-ui/core";
 import AddShoppingCartOutlinedIcon from "@material-ui/icons/AddShoppingCartOutlined";
+import PictureAsPdfIcon from "@material-ui/icons/PictureAsPdf";
 import { useRouter } from "next/router";
 import React, { useContext } from "react";
 import Layout from "../../components/Layout";
@@ -103,6 +104,14 @@ const ProductScreen = () => {
       <Typography variant="h2">Details</Typography>
       <Divider className={classes.lineBreak} />
       <Typography>{product.details}</Typography>
+      {product.prodsheet && (
+        <NextLink target="_blank" href={product.prodsheet} passHref>
+          <div className={classes.linkdiv}>
+            <PictureAsPdfIcon />
+            <Link>Link to detailed product data sheet (PDF)</Link>
+          </div>
+        </NextLink>
+      )}
     </Layout>
   );
 };
