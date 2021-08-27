@@ -94,7 +94,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -106,7 +106,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -118,7 +118,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -130,7 +130,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -142,7 +142,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -154,7 +154,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -166,7 +166,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -178,7 +178,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -190,7 +190,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Mini Spout Lid",
@@ -202,7 +202,7 @@ const data = {
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
       details:
         "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
-      prodsheet: "",
+      prodsheet: "http://www.forfluids.us/FF-mini-spout.pdf",
     },
     {
       name: "Standard Pump",
@@ -212,8 +212,9 @@ const data = {
       slug: "standard-pump-102000",
       description:
         "The OilSafe Standard Pump is the only manual transfer pump with a removable discharge hose for easy cleaning and drainage. Perfect for quickly and easily accessing hard to reach and time consuming top up points, such as gearbox and transmission applications.",
-      details: "",
-      prodsheet: "",
+      details:
+        "This high volume, down-stroke discharge pump delivers 1 litre for approximately 12 strokes. Match with an Oil Safe Utility Lid and a 3 - 5 - 10 liter / US quart drum. Supplied with 5 ft outlet hose and anti-drip nozzle. Designed to handle fluids up to ISO 460. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid.",
+      prodsheet: "http://www.forfluids.us/FF-standard-pump.pdf",
     },
     {
       name: "Pump reducer nozzle",
@@ -223,7 +224,8 @@ const data = {
       slug: "pump-reducer-nozzle-102030",
       description:
         "The Pump Reducer Nozzle accessory fits to the aluminium discharge pipe on the outlet end of the Pump hose and reduces the outlet diameter down to approximately ¼”, making oil top offs to very small fill points easy, simple, fast and clean.",
-      details: "",
+      details:
+        'Pump reducer nozzle reduces the fitting on the pump hose to 9mm to 6mm / 3/8" OD to 1/4" OD allowing you to fill small openings. Suits both Oil Safe Standard and Premium Pump.',
       prodsheet: "",
     },
     {
@@ -234,7 +236,8 @@ const data = {
       slug: "premium-pump-102300",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -245,7 +248,8 @@ const data = {
       slug: "premium-pump-102301",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -256,7 +260,8 @@ const data = {
       slug: "premium-pump-102302",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -267,7 +272,8 @@ const data = {
       slug: "premium-pump-102303",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -278,7 +284,8 @@ const data = {
       slug: "premium-pump-102304",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -289,7 +296,8 @@ const data = {
       slug: "premium-pump-102305",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -300,7 +308,8 @@ const data = {
       slug: "premium-pump-102306",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -311,7 +320,8 @@ const data = {
       slug: "premium-pump-102307",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -322,7 +332,8 @@ const data = {
       slug: "premium-pump-102308",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
@@ -333,7 +344,8 @@ const data = {
       slug: "premium-pump-102309",
       description:
         "Heavy Duty Premium Pump, colour coded, serviceable internals for maximum life, handling fluids of up to ISO 680 viscosity.",
-      details: "",
+      details:
+        "The Oil Safe Premium Transfer Pump offers users advanced functionality for their lubrication needs. Features: - Ultra comfortable D-Handle grip design - 5 foot discharge hose - Fully serviceable pump internals via quick release body collar for maximum life - Premium materials of construction for maximum reliability - Unique Oil Safe pump non-return discharge valve that massively improves pump efficiency resulting in less effort and time required for oil top-ups. - Removable color-coded body collars in 10 different colors. - Highly efficient with approximately 12 strokes to the liter with capability to handle ISO 680 viscosity oils. - A wide range of optional pump accessories are available including: discharge hoses in different lengths, NPT body port for quick fill, color coded body collars. Note: Pump cannot be used with 1.5 or 2 liter/Quart drums and is designed to be used with a Utility Lid. Imported.",
       prodsheet: "",
     },
     {
