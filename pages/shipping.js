@@ -54,10 +54,12 @@ export default function Shipping() {
     const city = getValues("city");
     const postalCode = getValues("postalCode");
     const country = getValues("country");
+
     dispatch({
       type: "SAVE_SHIPPING_ADDRESS",
       payload: { fullName, email, address, city, postalCode, country },
     });
+
     Cookies.set("shippingAddress", {
       fullName,
       email,
