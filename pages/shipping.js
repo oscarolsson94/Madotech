@@ -36,7 +36,20 @@ export default function Shipping() {
     setValue("country", shippingAddress.country);
   }, []);
 
-  
+  const classes = useStyles();
+  const submitHandler = ({ fullName, address, city, postalCode, country }) => {
+    dispatch({
+      type: "SAVE_SHIPPING_ADDRESS",
+      payload: { fullName, address, city, postalCode, country },
+    });
+    Cookies.set("shippingAddress", {
+      fullName,
+      address,
+      city,
+      postalCode,
+      country,
+    });
+    router.push("/payment");
   };
 
   return (
