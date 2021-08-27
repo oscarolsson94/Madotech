@@ -5,7 +5,6 @@ import {
   ListItem,
   Typography,
   Button,
-  Divider,
 } from "@material-ui/core";
 import AddShoppingCartOutlinedIcon from "@material-ui/icons/AddShoppingCartOutlined";
 import PictureAsPdfIcon from "@material-ui/icons/PictureAsPdf";
