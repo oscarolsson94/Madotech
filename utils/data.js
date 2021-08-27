@@ -476,7 +476,8 @@ const data = {
       slug: "stretch-spout-lid-100300",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -487,7 +488,8 @@ const data = {
       slug: "stretch-spout-lid-100301",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -498,7 +500,8 @@ const data = {
       slug: "stretch-spout-lid-100302",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -509,7 +512,8 @@ const data = {
       slug: "stretch-spout-lid-100303",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -520,7 +524,8 @@ const data = {
       slug: "stretch-spout-lid-100304",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -531,7 +536,8 @@ const data = {
       slug: "stretch-spout-lid-100305",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -542,7 +548,8 @@ const data = {
       slug: "stretch-spout-lid-100306",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -553,7 +560,8 @@ const data = {
       slug: "stretch-spout-lid-100307",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -564,7 +572,8 @@ const data = {
       slug: "stretch-spout-lid-100308",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -575,7 +584,8 @@ const data = {
       slug: "stretch-spout-lid-100309",
       description:
         "The OilSafe Stretch Spout Lid is designed for use where precise pouring of lubricants is required, including hard-to-reach areas. Ideal for lower viscosity oils less than ISO 220. Made of state of the art materials and of timeless design, the lid has an advanced sealing thread design that ensures a very secure fit on all genuine OilSafe Drums from 1.5 through to 10 liter / US quart.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout lid is designed for use where precise pouring of lubricants is required including hard to reach areas. With a .5' spout opening and longer spout, this lid is ideal for lower viscosity oils (Less than ISO 220). Add a Stretch Spout Hose Extension to help with awkward or hard to reach fill points.",
       prodsheet: "http://www.forfluids.us/FF-stretch-spout.pdf",
     },
     {
@@ -586,8 +596,9 @@ const data = {
       slug: "stumpy-spout-lid-100500",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -597,8 +608,9 @@ const data = {
       slug: "stumpy-spout-lid-100501",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -608,8 +620,9 @@ const data = {
       slug: "stumpy-spout-lid-100502",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -619,8 +632,9 @@ const data = {
       slug: "stumpy-spout-lid-100503",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -630,8 +644,9 @@ const data = {
       slug: "stumpy-spout-lid-100504",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -641,8 +656,9 @@ const data = {
       slug: "stumpy-spout-lid-100505",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -652,8 +668,9 @@ const data = {
       slug: "stumpy-spout-lid-100506",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -663,8 +680,9 @@ const data = {
       slug: "stumpy-spout-lid-100507",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -674,8 +692,9 @@ const data = {
       slug: "stumpy-spout-lid-100508",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Stumpy Spout Lid",
@@ -685,8 +704,9 @@ const data = {
       slug: "stumpy-spout-lid-100509",
       description:
         "Colour coded high quality OilSafe Stumpy Spout Lid, designed for use with any of the 1.5, 2, 3, 5, or 10 litre Oilsafe drums. Will not bend, break, warp or leak. 25 mm outlet spout opening. This lid is for pouring larger lubricant flow applications",
-      details: "",
-      prodsheet: "",
+      details:
+        "This Oil Safe wide spout model is especially designed for applications where a high lubricant flow is desired. Spout has a 1' opening. Spout is approximately 4.75 inches. Match with a Stumpy Extension Hose to help with hard to reach fill points.",
+      prodsheet: "http://www.forfluids.us/FF-stumpy-lid.pdf",
     },
     {
       name: "Utility Lid",
