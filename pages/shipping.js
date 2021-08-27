@@ -34,7 +34,14 @@ export default function Shipping() {
     setValue("city", shippingAddress.city);
     setValue("postalCode", shippingAddress.postalCode);
     setValue("country", shippingAddress.country);
-  }, []);
+  }, [
+    setValue,
+    shippingAddress.address,
+    shippingAddress.city,
+    shippingAddress.country,
+    shippingAddress.fullName,
+    shippingAddress.postalCode,
+  ]);
 
   const classes = useStyles();
   const submitHandler = ({ fullName, address, city, postalCode, country }) => {
