@@ -46,7 +46,14 @@ export default function Shipping() {
   ]);
 
   const classes = useStyles();
-  const submitHandler = ({ fullName, address, city, postalCode, country }) => {
+
+  const submitHandler = () => {
+    const fullName = getValues("fullName");
+    const email = getValues("email");
+    const address = getValues("address");
+    const city = getValues("city");
+    const postalCode = getValues("postalCode");
+    const country = getValues("country");
     dispatch({
       type: "SAVE_SHIPPING_ADDRESS",
       payload: { fullName, email, address, city, postalCode, country },
@@ -59,6 +66,7 @@ export default function Shipping() {
       postalCode,
       country,
     });
+
     router.push("/payment");
   };
 
