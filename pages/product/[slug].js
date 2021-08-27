@@ -105,12 +105,17 @@ const ProductScreen = () => {
       <Divider className={classes.lineBreak} />
       <Typography>{product.details}</Typography>
       {product.prodsheet && (
-        <NextLink target="_blank" href={product.prodsheet} passHref>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href={product.prodsheet}
+          passHref
+        >
           <div className={classes.linkdiv}>
             <PictureAsPdfIcon />
             <Link>Link to detailed product data sheet (PDF)</Link>
           </div>
-        </NextLink>
+        </a>
       )}
     </Layout>
   );
