@@ -716,8 +716,9 @@ const data = {
       slug: "utility-lid-100200",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -727,8 +728,9 @@ const data = {
       slug: "utility-lid-100201",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -738,8 +740,9 @@ const data = {
       slug: "utility-lid-100202",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -749,8 +752,9 @@ const data = {
       slug: "utility-lid-100203",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -760,8 +764,9 @@ const data = {
       slug: "utility-lid-100204",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -771,8 +776,9 @@ const data = {
       slug: "utility-lid-100205",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -782,8 +788,9 @@ const data = {
       slug: "utility-lid-100206",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -793,8 +800,9 @@ const data = {
       slug: "utility-lid-100207",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -804,8 +812,9 @@ const data = {
       slug: "utility-lid-100208",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
     {
       name: "Utility Lid",
@@ -815,8 +824,9 @@ const data = {
       slug: "utility-lid-100209",
       description:
         "Colour coded high quality OilSafe Utility Lid, designed for use with the 1.5, 2, 3, 5, or 10 litre OilSafe drums. Will not warp, leak, bend or break. Large 48 mm outlet hole for fast-pouring capabilities. Designed to mate with an OilSafe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
-      details: "",
-      prodsheet: "",
+      details:
+        "Multi purpose Oil Safe lid with large outlet hole (approx. 2') ensures controlled fast pouring of lubricants. The Utility Lid is designed to mate with an Oil Safe Standard or Premium Pump on a 3, 5 or 10 liter/US quart drum to take care of hard to reach and time consuming pumping applications such as gearboxes and transmissions.",
+      prodsheet: "http://www.forfluids.us/FF-utility-lid.pdf",
     },
   ],
   categories: [
