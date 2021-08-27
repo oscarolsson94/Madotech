@@ -30,6 +30,7 @@ export default function Shipping() {
 
   useEffect(() => {
     setValue("fullName", shippingAddress.fullName);
+    setValue("email", shippingAddress.email);
     setValue("address", shippingAddress.address);
     setValue("city", shippingAddress.city);
     setValue("postalCode", shippingAddress.postalCode);
@@ -39,6 +40,7 @@ export default function Shipping() {
     shippingAddress.address,
     shippingAddress.city,
     shippingAddress.country,
+    shippingAddress.email,
     shippingAddress.fullName,
     shippingAddress.postalCode,
   ]);
@@ -47,10 +49,11 @@ export default function Shipping() {
   const submitHandler = ({ fullName, address, city, postalCode, country }) => {
     dispatch({
       type: "SAVE_SHIPPING_ADDRESS",
-      payload: { fullName, address, city, postalCode, country },
+      payload: { fullName, email, address, city, postalCode, country },
     });
     Cookies.set("shippingAddress", {
       fullName,
+      email,
       address,
       city,
       postalCode,
@@ -88,6 +91,35 @@ export default function Shipping() {
                       ? errors.fullName.type === "minLength"
                         ? "Full Name length is more than 1"
                         : "Full Name is required"
+                      : ""
+                  }
+                  {...field}
+                ></TextField>
+              )}
+            ></Controller>
+          </ListItem>
+          <ListItem>
+            <Controller
+              name="email"
+              control={control}
+              defaultValue=""
+              rules={{
+                required: true,
+                minLength: 2,
+              }}
+              render={({ field }) => (
+                <TextField
+                  type="email"
+                  variant="outlined"
+                  fullWidth
+                  id="email"
+                  label="Email Address"
+                  error={Boolean(errors.email)}
+                  helperText={
+                    errors.email
+                      ? errors.email.type === "minLength"
+                        ? "Email Address length is more than 1"
+                        : "Email Address is required"
                       : ""
                   }
                   {...field}

@@ -33,8 +33,8 @@ const Layout = ({ title, children, description }) => {
       position: "relative",
       width: "26px",
       height: "20px",
-      right: "50px",
-      top: "2px",
+      right: "20px",
+      top: 0,
     },
     bmBurgerBars: {
       background: "#ffffff",

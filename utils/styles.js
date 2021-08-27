@@ -32,7 +32,6 @@ const useStyles = makeStyles({
     alignItems: "center",
     justifyContent: "center",
     color: "#ffffff",
-    marginTop: 10,
     backgroundColor: "#255bbe",
     minHeight: 100,
   },
