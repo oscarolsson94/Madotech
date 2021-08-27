@@ -92,6 +92,7 @@ const Layout = ({ title, children, description }) => {
       },
       body1: {
         fontWeight: "normal",
+        fontFamily: "Dosis",
       },
     },
     palette: {
