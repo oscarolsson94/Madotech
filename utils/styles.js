@@ -49,7 +49,8 @@ const useStyles = makeStyles({
     fontWeight: "bold",
   },
   lineBreak: {
-    marginTop: 20,
+    marginTop: 10,
+    marginBottom: 10,
   },
   bold: {
     fontWeight: "bold",

@@ -101,7 +101,7 @@ const ProductScreen = () => {
         </Grid>
       </Grid>
       <Typography variant="h2">Details</Typography>
-      <Divider />
+      <Divider className={classes.lineBreak} />
       <Typography>{product.details}</Typography>
     </Layout>
   );
