@@ -11,7 +11,7 @@ const initialState = {
       : [],
     shippingAddress: Cookies.get("shippingAddress")
       ? JSON.parse(Cookies.get("shippingAddress"))
-      : { location: {} },
+      : {},
   },
 };
 

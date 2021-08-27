@@ -28,6 +28,14 @@ export default function Shipping() {
     cart: { shippingAddress },
   } = state;
 
+  useEffect(() => {
+    setValue("fullName", shippingAddress.fullName);
+    setValue("address", shippingAddress.address);
+    setValue("city", shippingAddress.city);
+    setValue("postalCode", shippingAddress.postalCode);
+    setValue("country", shippingAddress.country);
+  }, []);
+
   
   };
 
