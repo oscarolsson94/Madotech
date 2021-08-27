@@ -20,7 +20,6 @@ function Shipping() {
     control,
     formState: { errors },
     setValue,
-    getValues,
   } = useForm();
   const router = useRouter();
   const { state, dispatch } = useContext(Store);
