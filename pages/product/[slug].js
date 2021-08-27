@@ -101,22 +101,33 @@ const ProductScreen = () => {
           </List>
         </Grid>
       </Grid>
-      <Typography variant="h2">Details</Typography>
-      <Divider className={classes.lineBreak} />
-      <Typography>{product.details}</Typography>
-      {product.prodsheet && (
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href={product.prodsheet}
-          passHref
-        >
-          <div className={classes.linkdiv}>
-            <PictureAsPdfIcon />
-            <Link>Link to detailed product data sheet (PDF)</Link>
-          </div>
-        </a>
-      )}
+      <Grid container spacing={1}>
+        <Grid item>
+          <List>
+            <ListItem divider>
+              <Typography variant="h2">Details</Typography>
+            </ListItem>
+            <ListItem>
+              <Typography>{product.details}</Typography>
+            </ListItem>
+            {product.prodsheet && (
+              <ListItem>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href={product.prodsheet}
+                  passHref
+                >
+                  <div className={classes.linkdiv}>
+                    <PictureAsPdfIcon />
+                    <Link>Link to detailed product data sheet (PDF)</Link>
+                  </div>
+                </a>
+              </ListItem>
+            )}
+          </List>
+        </Grid>
+      </Grid>
     </Layout>
   );
 };
