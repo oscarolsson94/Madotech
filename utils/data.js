@@ -356,7 +356,8 @@ const data = {
       slug: "storage-lid-100100",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -367,7 +368,8 @@ const data = {
       slug: "storage-lid-100101",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -378,7 +380,8 @@ const data = {
       slug: "storage-lid-100102",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -389,7 +392,8 @@ const data = {
       slug: "storage-lid-100103",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -400,7 +404,8 @@ const data = {
       slug: "storage-lid-100104",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -411,7 +416,8 @@ const data = {
       slug: "storage-lid-100105",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -422,7 +428,8 @@ const data = {
       slug: "storage-lid-100106",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -433,7 +440,8 @@ const data = {
       slug: "storage-lid-100107",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -444,7 +452,8 @@ const data = {
       slug: "storage-lid-100108",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
@@ -455,7 +464,8 @@ const data = {
       slug: "storage-lid-100109",
       description:
         "With the Storage Lid, OilSafe Drums can be pre-filled for safe storage and transport and can be located for easy and timely access to fluids where and when needed.",
-      details: "",
+      details:
+        "With the Oil Safe Storage Lid, Oil Safe drums can be pre-filled for storage and transport and can be located for easy and timely access to fluids where and when needed. Advanced thread design ensures secure fully sealing fit on a 1.5, 2, 3, 5 or 10 liter/US quart drum.",
       prodsheet: "",
     },
     {
