@@ -68,7 +68,8 @@ const data = {
       slug: "hose-102020mod2",
       description:
         "The flexible, Stretch Spout Hose Extension attaches to the OilSafe Stretch Spout Lid. Helping awkward or hard-to-reach fill points easy and fast to access and service. The addition of the Stretch Hose Extension to the outlet spout of the Stretch Spout Lid also eliminates the need for funnels, which are notorious for attracting contaminants. The hose can be removed from the fittings and the length cut to suit the application.",
-      details: "",
+      details:
+        "The Oil Safe Stretch Spout extension hose is a flexible spout hose attachment for awkward to hard to reach areas. Attaches easily to the Stretch Spout lid. Extension is approximately 12 inches. Stretch hose can be pulled from fitting and the length cut to suit the application.",
       prodsheet: "",
     },
     {
@@ -79,7 +80,8 @@ const data = {
       slug: "hose-102021",
       description:
         "The flexible, Stumpy Spout Hose Extension attaches to the OilSafe Stumpy Spout Lid. Helping awkward or hard-to-reach fill points easy and fast to access and service. The addition of the Stumpy Hose Extension to the outlet spout of the Stumpy Spout Lid also eliminates the need for funnels, which are notorious for attracting contaminants. The hose can be removed from the fittings and the length cut to suit the application.",
-      details: "",
+      details:
+        "The Oil Safe Stumpy Spout extension hose is a flexible spout hose attachments for awkward to hard to reach areas. Attaches easily to the Stumpy Spout lid. Extension is approximately 9 inches.",
       prodsheet: "",
     },
     {
@@ -90,7 +92,8 @@ const data = {
       slug: "mini-spout-lid-100400",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -101,7 +104,8 @@ const data = {
       slug: "mini-spout-lid-100401",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -112,7 +116,8 @@ const data = {
       slug: "mini-spout-lid-100402",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -123,7 +128,8 @@ const data = {
       slug: "mini-spout-lid-100403",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -134,7 +140,8 @@ const data = {
       slug: "mini-spout-lid-100404",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -145,7 +152,8 @@ const data = {
       slug: "mini-spout-lid-100405",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -156,7 +164,8 @@ const data = {
       slug: "mini-spout-lid-100406",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -167,7 +176,8 @@ const data = {
       slug: "mini-spout-lid-100407",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -178,7 +188,8 @@ const data = {
       slug: "mini-spout-lid-100408",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
@@ -189,7 +200,8 @@ const data = {
       slug: "mini-spout-lid-100409",
       description:
         "The OilSafe Mini Spout Lid has an outlet diameter of 1/4' (7mm), making it ideal for lubrication jobs where equipment fill holes are small such as constant level oilers and machine tools.",
-      details: "",
+      details:
+        "With an outlet diameter of approximately .25' (7mm), the Oil Safe Mini Spout is ideal for lubrication jobs where equipment filler holes are small such as constant level oilers and machine tools.",
       prodsheet: "",
     },
     {
