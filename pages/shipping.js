@@ -5,7 +5,30 @@ import {
   TextField,
   Button,
 } from "@material-ui/core";
+import { useRouter } from "next/router";
+import React, { useContext, useEffect } from "react";
+import Layout from "../components/Layout";
+import { Store } from "../utils/Store";
+import useStyles from "../utils/styles";
+import Cookies from "js-cookie";
+import { Controller, useForm } from "react-hook-form";
+import CheckoutWizard from "../components/CheckoutWizard";
 
+export default function Shipping() {
+  const {
+    handleSubmit,
+    control,
+    formState: { errors },
+    setValue,
+    getValues,
+  } = useForm();
+  const router = useRouter();
+  const { state, dispatch } = useContext(Store);
+  const {
+    cart: { shippingAddress },
+  } = state;
+
+  
   };
 
   return (
