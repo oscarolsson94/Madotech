@@ -70,7 +70,7 @@ function CartScreen() {
                 </TableHead>
                 <TableBody>
                   {cartItems.map((item) => (
-                    <TableRow key={item._id}>
+                    <TableRow key={item.slug}>
                       <TableCell>
                         <NextLink href={`/product/${item.slug}`} passHref>
                           <Link>

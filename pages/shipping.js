@@ -10,7 +10,6 @@ import React, { useContext, useEffect } from "react";
 import Layout from "../components/Layout";
 import { Store } from "../utils/Store";
 import useStyles from "../utils/styles";
-import Cookies from "js-cookie";
 import { Controller, useForm } from "react-hook-form";
 import CheckoutWizard from "../components/CheckoutWizard";
 import dynamic from "next/dynamic";
@@ -48,26 +47,17 @@ function Shipping() {
 
   const classes = useStyles();
 
-  const submitHandler = () => {
-    const fullName = getValues("fullName");
-    const email = getValues("email");
-    const address = getValues("address");
-    const city = getValues("city");
-    const postalCode = getValues("postalCode");
-    const country = getValues("country");
-
+  const submitHandler = ({
+    fullName,
+    email,
+    address,
+    city,
+    postalCode,
+    country,
+  }) => {
     dispatch({
       type: "SAVE_SHIPPING_ADDRESS",
       payload: { fullName, email, address, city, postalCode, country },
-    });
-
-    Cookies.set("shippingAddress", {
-      fullName,
-      email,
-      address,
-      city,
-      postalCode,
-      country,
     });
 
     router.push("/payment");
