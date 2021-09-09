@@ -8,15 +8,14 @@ function Contact() {
     <Layout title="Contact page" description="Who are we">
       <Typography variant="h1">Contact us</Typography>
       <Grid container spacing={1}>
-        <Grid item md={6} xs={12}>
+        <Grid item md={12} xs={12}>
           <List>
             <ListItem>
               <Image
-                src={"/images/Helmut.jpg"}
-                alt={"Helmut"}
-                width={640}
-                height={640}
-                layout="responsive"
+                src="/images/Helmut.jpg"
+                alt="Helmut"
+                width={450}
+                height={500}
               ></Image>
             </ListItem>
             <ListItem>
@@ -24,15 +23,16 @@ function Contact() {
             </ListItem>
           </List>
         </Grid>
-        <Grid item md={6} xs={12}>
+      </Grid>
+      <Grid container spacing={1}>
+        <Grid item md={12} xs={12}>
           <List>
             <ListItem>
               <Image
-                src="/images/Torbjörn.jpg"
-                alt="Helmut"
-                width={640}
-                height={640}
-                layout="responsive"
+                src="/images/Torbjorn.jpg"
+                alt="Torbjorn"
+                width={450}
+                height={500}
               ></Image>
             </ListItem>
             <ListItem>
